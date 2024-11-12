@@ -1,0 +1,150 @@
+	Country Origin Name	Country Dest Name	1960 [1960]	weight_isnumeric
+1916	Algeria	France	626615	626615
+6712	Armenia	Azerbaijan	152502	152502
+8996	Austria	United States	317730	317730
+9480	Azerbaijan	Armenia	158871	158871
+9641	Azerbaijan	Russian Federation	101089	101089
+13100	Belarus	Poland	415683	415683
+13106	Belarus	Russian Federation	985601	985601
+13151	Belarus	Ukraine	276999	276999
+13673	Belgium	Congo, Dem. Rep.	739949	739949
+20769	Bulgaria	Turkey	282561	282561
+21300	Burkina Faso	Cote d'Ivoire	402537	402537
+24242	Canada	United States	995660	995660
+28190	Chile	Argentina	119505	119505
+28963	China	Hong Kong SAR, China	1562528	1562528
+28967	China	Indonesia	1723200	1723200
+29016	China	Myanmar	128750	128750
+29038	China	Philippines	196157	196157
+29058	China	Singapore	278798	278798
+29078	China	Thailand	423268	423268
+29093	China	United States	105384	105384
+31168	Congo, Dem. Rep.	Uganda	151662	151662
+36566	Czech Republic	France	130859	130859
+36572	Czech Republic	Germany	736457	736457
+36716	Czech Republic	United States	193699	193699
+42798	Eritrea	Ethiopia	230750	230750
+47588	France	Algeria	149835	149835
+47725	France	Morocco	178533	178533
+47804	France	United States	116814	116814
+51755	Germany	Australia	104693	104693
+51756	Germany	Austria	435151	435151
+51778	Germany	Canada	183947	183947
+51812	Germany	France	154139	154139
+51889	Germany	Netherlands	128602	128602
+51961	Germany	United Kingdom	147308	147308
+51962	Germany	United States	1035269	1035269
+54033	Greece	Turkey	260136	260136
+54041	Greece	United States	166588	166588
+62357	Hungary	United States	256017	256017
+63541	India	Bangladesh	637854	637854
+63666	India	Myanmar	105138	105138
+63669	India	Nepal	324670	324670
+63682	India	Pakistan	6293916	6293916
+63715	India	Sri Lanka	999333	999333
+63742	India	United Kingdom	190722	190722
+64363	Indonesia	Netherlands	202339	202339
+66365	Ireland	France	107311	107311
+66515	Ireland	United States	353621	353621
+67910	Israel	West Bank and Gaza	167080	167080
+68384	Italy	Argentina	927303	927303
+68387	Italy	Australia	218698	218698
+68395	Italy	Belgium	196020	196020
+68403	Italy	Brazil	210731	210731
+68410	Italy	Canada	250997	250997
+68444	Italy	France	140448	140448
+68450	Italy	Germany	216562	216562
+68574	Italy	Switzerland	442123	442123
+68593	Italy	United Kingdom	100455	100455
+68594	Italy	United States	1312537	1312537
+68598	Italy	Venezuela, RB	112079	112079
+69286	Jamaica	United Kingdom	116203	116203
+69789	Japan	Brazil	166660	166660
+69980	Japan	United States	114981	114981
+71318	Kazakhstan	Russian Federation	1097639	1097639
+72043	Kenya	Tanzania	101972	101972
+72055	Kenya	Uganda	157120	157120
+73333	Korea, Dem. Rep.	Korea, Rep.	100600	100600
+73961	Korea, Rep.	China	179624	179624
+74020	Korea, Rep.	Japan	622220	622220
+78959	Lesotho	South Africa	199144	199144
+81707	Lithuania	Poland	304562	304562
+81761	Lithuania	United States	112270	112270
+85238	Malawi	Zimbabwe	134866	134866
+85884	Malaysia	Singapore	129858	129858
+87135	Mali	Cote d'Ivoire	183795	183795
+92156	Mexico	United States	610787	610787
+93493	Moldova	Romania	138323	138323
+93539	Moldova	Ukraine	139233	139233
+96791	Morocco	Algeria	217523	217523
+96857	Morocco	France	155574	155574
+96886	Morocco	Israel	191014	191014
+97604	Mozambique	Malawi	209525	209525
+97670	Mozambique	South Africa	161807	161807
+97684	Mozambique	Tanzania	138828	138828
+100345	Nepal	India	515785	515785
+100981	Netherlands	Canada	131332	131332
+101165	Netherlands	United States	123774	123774
+105138	Nigeria	Cameroon	101964	101964
+105180	Nigeria	Ghana	114443	114443
+108095	Norway	United States	159303	159303
+109354	Pakistan	India	8662538	8662538
+112043	Paraguay	Argentina	157030	157030
+113639	Philippines	United States	111801	111801
+114122	Poland	Argentina	113735	113735
+114132	Poland	Belarus	538881	538881
+114148	Poland	Canada	166767	166767
+114182	Poland	France	474428	474428
+114188	Poland	Germany	2226485	2226485
+114211	Poland	Israel	176518	176518
+114231	Poland	Lithuania	230107	230107
+114284	Poland	Russian Federation	118422	118422
+114329	Poland	Ukraine	363297	363297
+114331	Poland	United Kingdom	146451	146451
+114332	Poland	United States	780612	780612
+114834	Portugal	Brazil	486914	486914
+115718	Puerto Rico	United States	657479	657479
+118369	Romania	Israel	175882	175882
+118978	Russian Federation	Azerbaijan	185297	185297
+118983	Russian Federation	Belarus	386328	386328
+119027	Russian Federation	Estonia	151993	151993
+119033	Russian Federation	France	129036	129036
+119038	Russian Federation	Georgia	225876	225876
+119039	Russian Federation	Germany	286209	286209
+119067	Russian Federation	Kazakhstan	1525680	1525680
+119074	Russian Federation	Kyrgyz Republic	231051	231051
+119076	Russian Federation	Latvia	236232	236232
+119082	Russian Federation	Lithuania	116059	116059
+119099	Russian Federation	Moldova	129600	129600
+119129	Russian Federation	Poland	293946	293946
+119166	Russian Federation	Tajikistan	156970	156970
+119176	Russian Federation	Turkmenistan	133516	133516
+119180	Russian Federation	Ukraine	3233837	3233837
+119185	Russian Federation	Uzbekistan	540184	540184
+119872	Rwanda	Uganda	246936	246936
+126105	Serbia and Montenegro	Turkey	191101	191101
+128741	Slovak Republic	Germany	194210	194210
+132140	Spain	Argentina	753707	753707
+132159	Spain	Brazil	162107	162107
+132354	Spain	Venezuela, RB	162858	162858
+137894	Sweden	United States	223726	223726
+141866	Thailand	Cambodia	161712	161712
+143295	Togo	Ghana	175525	175525
+146060	Tunisia	France	184315	184315
+147548	Turkmenistan	Russian Federation	203702	203702
+150168	Ukraine	Belarus	122548	122548
+150252	Ukraine	Kazakhstan	419850	419850
+150284	Ukraine	Moldova	186092	186092
+150314	Ukraine	Poland	1177694	1177694
+150320	Ukraine	Russian Federation	3500317	3500317
+150368	Ukraine	United States	381955	381955
+151547	United Kingdom	Australia	724397	724397
+151570	United Kingdom	Canada	941217	941217
+151684	United Kingdom	New Zealand	217720	217720
+151724	United Kingdom	South Africa	127568	127568
+151754	United Kingdom	United States	870668	870668
+152263	United States	Canada	276126	276126
+152446	United States	United Kingdom	119195	119195
+155726	Vietnam	Cambodia	196744	196744
+156462	Virgin Islands (U.S.)	Ghana	133012	133012
+158665	West Bank and Gaza	Syrian Arab Republic	112765	112765
