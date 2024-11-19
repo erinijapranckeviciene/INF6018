@@ -1,0 +1,37 @@
+Work with igraph
+
+ How to read the network data into igraph
+ Ref: https://r.igraph.org/reference/read_graph.html
+ Example:
+ 
+ 	nw<-read_graph(file_name, format=c("pajek"))
+ 	nw
+ 	
+ The pajek network can be directed with "*Arcs" or undirected "*Edges". 
+ Louvain community detection and several other methods do not work with directed network. 
+ 
+ To start laying out the network use layout functions
+ Ref: https://r.igraph.org/reference/index.html#visualization
+ Example:
+ 
+ 	lay<-layout_nicely(nw)
+ 
+ How to identify communities
+ Ref: https://r.igraph.org/reference/index.html#community-detection
+ 
+ Leiden:
+ Ref: https://r.igraph.org/reference/cluster_leiden.html
+ Traag, V. A., Waltman, L., & van Eck, N. J. (2019). From Louvain to Leiden: guaranteeing well-connected communities. Scientific reports, 9(1), 5233. doi: 10.1038/s41598-019-41695-z, arXiv:1810.08473v3 [cs.SI]
+ 
+Edge betweenness:
+ Ref: https://r.igraph.org/reference/cluster_edge_betweenness.html
+ M Newman and M Girvan: Finding and evaluating community structure in networks, Physical Review E 69, 026113 (2004)
+
+Label propagation:
+ Ref: https://r.igraph.org/reference/cluster_label_prop.html
+ Raghavan, U.N. and Albert, R. and Kumara, S.: Near linear time algorithm to detect community structures in large-scale networks. Phys Rev E 76, 036106. (2007) 
+ 
+ 
+Examples how to draw the network is shown in R scripts. Many thanks to the poster of the answer. 
+https://stackoverflow.com/questions/24684931/improving-layout-and-resolution-of-a-network-graph-in-r
+  
