@@ -1,0 +1,76 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Semenova, EA
+   Pranckeviciene, E
+   Bondareva, EA
+   Gabdrakhmanova, LJ
+   Ahmetov, II
+AF Semenova, Ekaterina A.
+   Pranckeviciene, Erinija
+   Bondareva, Elvira A.
+   Gabdrakhmanova, Leysan J.
+   Ahmetov, Ildus I.
+TI Identification and Characterization of Genomic Predictors of Sarcopenia
+   and Sarcopenic Obesity Using UK Biobank Data
+SO NUTRIENTS
+LA English
+DT Article
+DE sarcopenia; sarcopenic obesity; genetics; DNA; nutrition; physical
+   activity; testosterone; height; fat-free mass; weakness
+ID WIDE ASSOCIATION; SKELETAL-MUSCLE; ELDERLY-PATIENTS; RISK; TRAITS; MASS;
+   POLYMORPHISM; STRENGTH; GENE; TESTOSTERONE
+AB The substantial decline in skeletal muscle mass, strength, and gait speed is a sign of severe sarcopenia, which may partly depend on genetic risk factors. So far, hundreds of genome-wide significant single nucleotide polymorphisms (SNPs) associated with handgrip strength, lean mass and walking pace have been identified in the UK Biobank cohort; however, their pleiotropic effects on all three phenotypes have not been investigated. By combining summary statistics of genome-wide association studies (GWAS) of handgrip strength, lean mass and walking pace, we have identified 78 independent SNPs (from 73 loci) associated with all three traits with consistent effect directions. Of the 78 SNPs, 55 polymorphisms were also associated with body fat percentage and 25 polymorphisms with type 2 diabetes (T2D), indicating that sarcopenia, obesity and T2D share many common risk alleles. Follow-up bioinformatic analysis revealed that sarcopenia risk alleles were associated with tiredness, falls in the last year, neuroticism, alcohol intake frequency, smoking, time spent watching television, higher salt, white bread, and processed meat intake; whereas protective alleles were positively associated with bone mineral density, serum testosterone, IGF1, and 25-hydroxyvitamin D levels, height, intelligence, cognitive performance, educational attainment, income, physical activity, ground coffee drinking and healthier diet (muesli, cereal, wholemeal or wholegrain bread, potassium, magnesium, cheese, oily fish, protein, water, fruit, and vegetable intake). Furthermore, the literature data suggest that single-bout resistance exercise may induce significant changes in the expression of 26 of the 73 implicated genes in m. vastus lateralis, which may partly explain beneficial effects of strength training in the prevention and treatment of sarcopenia. In conclusion, we have identified and characterized 78 SNPs associated with sarcopenia and 55 SNPs with sarcopenic obesity in European-ancestry individuals from the UK Biobank.
+C1 [Semenova, Ekaterina A.; Bondareva, Elvira A.; Ahmetov, Ildus I.] Dept Mol Biol & Genet, Fed Res & Clin Ctr Phys, Chem Med Fed Med Biol Agcy, Moscow 119435, Russia.
+   [Semenova, Ekaterina A.] Volga Reg State Univ Phys Culture, Res Inst Phys Culture & Sport, Sport & Tourism, Kazan 420138, Russia.
+   [Pranckeviciene, Erinija] Vilnius Univ, Biomed Sci Inst, Fac Med, Dept Human & Med Genet, LT-01513 Vilnius, Lithuania.
+   [Pranckeviciene, Erinija] Vytautas Magnus Univ, Fac Informat, Dept Syst Anal, LT-44404 Kaunas, Lithuania.
+   [Gabdrakhmanova, Leysan J.; Ahmetov, Ildus I.] Kazan State Med Univ, Lab Genet Aging & Longev, Kazan 420012, Russia.
+   [Ahmetov, Ildus I.] Plekhanov Russian Univ Econ, Dept Phys Educ, Moscow 115093, Russia.
+   [Ahmetov, Ildus I.] Liverpool John Moores Univ, Res Inst Sport & Exercise Sci, Liverpool L3 5AE, England.
+C3 Lopukhin Federal Research & Clinical Center of Physical-Chemical
+   Medicine of Federal Medical Biological Agency; Vilnius University;
+   Vytautas Magnus University; Kazan State Medical University; Plekhanov
+   Russian University of Economics; Liverpool John Moores University
+RP Ahmetov, II (corresponding author), Dept Mol Biol & Genet, Fed Res & Clin Ctr Phys, Chem Med Fed Med Biol Agcy, Moscow 119435, Russia.; Ahmetov, II (corresponding author), Kazan State Med Univ, Lab Genet Aging & Longev, Kazan 420012, Russia.; Ahmetov, II (corresponding author), Plekhanov Russian Univ Econ, Dept Phys Educ, Moscow 115093, Russia.; Ahmetov, II (corresponding author), Liverpool John Moores Univ, Res Inst Sport & Exercise Sci, Liverpool L3 5AE, England.
+EM i.akhmetov@ljmu.ac.uk
+RI Semenova, Ekaterina/W-8789-2018; Pranckeviciene, Erinija/G-7777-2017;
+   Gabdrakhmanova, Leysan/AAG-2002-2021; Semenova, Ekaterina/ABC-6546-2021;
+   Ahmetov, Ildus/C-6163-2009
+OI Semenova, Ekaterina/0000-0003-1248-2855; Pranckeviciene,
+   Erinija/0000-0003-1365-3564; Ahmetov, Ildus/0000-0002-6335-4020
+FU Russian Science Foundation [22-75-10122]
+FX I.I.A. and E.A.B. have been supported by a grant from the Russian
+   Science Foundation (grant no. 22-75-10122: "Evaluation of the influence
+   of endogenous and exogenous factors for the development of various types
+   of obesity"). E.A.S., E.P. and L.J.G. have not received any funding to
+   conduct this study.
+NR 85
+TC 35
+Z9 37
+U1 3
+U2 47
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2072-6643
+J9 NUTRIENTS
+JI Nutrients
+PD FEB
+PY 2023
+VL 15
+IS 3
+AR 758
+DI 10.3390/nu15030758
+PG 15
+WC Nutrition & Dietetics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Nutrition & Dietetics
+GA 8W1KK
+UT WOS:000931079100001
+PM 36771461
+OA Green Submitted, gold
+DA 2025-11-08
+ER
+
+EF
